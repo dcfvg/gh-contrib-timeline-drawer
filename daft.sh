@@ -8,3 +8,15 @@ convert image.png txt: | less
 date +%Y%m%d -s "20081128"    # linux
 sudo date 042109582011        # mac
 
+# the github colors 
+
+#grey 
+
+#eeeeee 
+
+#greens
+
+#d6e685
+#8cc665
+#44a340
+#1e6823
