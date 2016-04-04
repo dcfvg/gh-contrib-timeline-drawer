@@ -1,3 +1,8 @@
+
+
+> 
+🎉 [gitfiti](https://github.com/gelstudios/gitfiti), a similar app by @gelstudios but rasterisation still missing …
+
 raster commits
 ====
 
